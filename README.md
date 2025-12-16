@@ -1,5 +1,5 @@
 # Agenda
-1. [What you must do today](https://calendar.google.com/calendar/u/0/r/agenda)
+1. [Must get done today](https://calendar.google.com/calendar/u/0/r/agenda)
 1. [To-do list](https://app.todoist.com/app/today) 
 
 # As a break
