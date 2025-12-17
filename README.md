@@ -10,4 +10,5 @@
 1. [Generative AI for Software Development Certificate](https://bit.ly/4oEko8U)
 1. [Free IBM Training Credentials](https://www.ibm.com/training/search?cost=free)
 1. [Free IBM SkillsBuild Credentials](https://skillsbuild.org/adult-learners/digital-credentials)
+1. [Exam Prep Plan: AWS Certified Data Engineer - Associate](https://skillbuilder.aws/learning-plan/QYZWVSMX4B/exam-prep-plan-aws-certified-data-engineer--associate-deac01--english/YTMBK7R698)
 
