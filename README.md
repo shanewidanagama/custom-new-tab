@@ -4,6 +4,7 @@
 
 # As a break
 
+1. [Work on what increases job security and advances my career](https://chatgpt.com/share/695b2685-f5cc-8005-8cc0-3afbbb31840a)
 1. Research what to study or research as your Master's.
 1. [Contribute to open-source software](https://github.com/search?q=is%3Aopen+language%3Apython+no%3Aassignee+-linked%3Apr+sort%3Ainteractions-desc+created%3A%3E2025-11-09+label%3A%22help+wanted%22%2C%22good+first+issue%22%2C%22up-for-grabs%22%2Cbeginner&type=issues&ref=advsearch)
 1. Listen to AWS Certified Data Engineer Study Guide 
